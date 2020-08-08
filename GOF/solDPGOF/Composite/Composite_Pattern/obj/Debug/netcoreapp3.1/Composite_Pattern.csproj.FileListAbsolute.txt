@@ -1,0 +1,8 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\obj\Debug\netcoreapp3.1\Composite_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\obj\Debug\netcoreapp3.1\Composite_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\bin\Debug\netcoreapp3.1\Composite_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\bin\Debug\netcoreapp3.1\Composite_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\bin\Debug\netcoreapp3.1\Composite_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\obj\Debug\netcoreapp3.1\Composite_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\obj\Debug\netcoreapp3.1\Composite_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Composite\Composite_Pattern\obj\Debug\netcoreapp3.1\Composite_Pattern.csprojAssemblyReference.cache

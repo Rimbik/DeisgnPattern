@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {}
+    "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {}
   },
   "projects": {
-    "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {
+    "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj",
+        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj",
         "projectName": "Prototype_Pattern",
-        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj",
+        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
-        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\obj\\",
+        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",

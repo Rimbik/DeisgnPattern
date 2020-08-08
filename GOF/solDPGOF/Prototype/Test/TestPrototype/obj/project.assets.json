@@ -6809,11 +6809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\TestPrototype.csproj",
+      "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\TestPrototype.csproj",
       "projectName": "TestPrototype",
-      "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\TestPrototype.csproj",
+      "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\TestPrototype.csproj",
       "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
-      "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\obj\\",
+      "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Test\\TestPrototype\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6829,8 +6829,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {
-              "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj"
+            "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj": {
+              "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Prototype\\Prototype_Pattern\\Prototype_Pattern.csproj"
             }
           }
         }

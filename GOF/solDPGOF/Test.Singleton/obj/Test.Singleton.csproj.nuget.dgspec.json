@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj": {}
+    "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj": {}
   },
   "projects": {
-    "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj": {
+    "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj",
+        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj",
         "projectName": "Singleton_Pattern",
-        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj",
+        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
-        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\obj\\",
+        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj": {
+    "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj",
+        "projectUniqueName": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj",
         "projectName": "Test.Singleton",
-        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj",
+        "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\Test.Singleton.csproj",
         "packagesPath": "C:\\Users\\User.DESKTOP-MN2GKEE\\.nuget\\packages\\",
-        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\obj\\",
+        "outputPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Test.Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User.DESKTOP-MN2GKEE\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj": {
-                "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj"
+              "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj": {
+                "projectPath": "D:\\DotnetPrac\\DeisgnPattern\\DeisgnPattern\\GOF\\solDPGOF\\Singleton_Pattern\\Singleton_Pattern.csproj"
               }
             }
           }

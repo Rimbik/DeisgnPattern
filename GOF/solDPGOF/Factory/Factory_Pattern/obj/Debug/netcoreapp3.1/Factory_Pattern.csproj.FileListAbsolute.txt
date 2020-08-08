@@ -1,0 +1,8 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\bin\Debug\netcoreapp3.1\Factory_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\bin\Debug\netcoreapp3.1\Factory_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\bin\Debug\netcoreapp3.1\Factory_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\obj\Debug\netcoreapp3.1\Factory_Pattern.csprojAssemblyReference.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\obj\Debug\netcoreapp3.1\Factory_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\obj\Debug\netcoreapp3.1\Factory_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\obj\Debug\netcoreapp3.1\Factory_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Factory\Factory_Pattern\obj\Debug\netcoreapp3.1\Factory_Pattern.pdb
