@@ -13,7 +13,7 @@ namespace Test.Facade
 
             var isSaved = myDBService.SaveData(
                   new System.Collections.Generic.List<string>() {
-                    "UserID = 1234", "{'UserAge':'25', 'UserName' : 'XYZ'}"
+                    "UserID = 1234", "{'UserAge':'25', 'UserName' : 'XYZ'}" 
                   }
                 );
         }
