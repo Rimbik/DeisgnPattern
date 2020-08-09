@@ -89,3 +89,4 @@ D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Test\Test.Builder
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Test\Test.Builder\obj\Debug\netcoreapp3.1\Test.Builder.csproj.CopyComplete
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Test\Test.Builder\obj\Debug\netcoreapp3.1\Test.Builder.dll
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Test\Test.Builder\obj\Debug\netcoreapp3.1\Test.Builder.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Test\Test.Builder\obj\Debug\netcoreapp3.1\Test.Builder.csprojAssemblyReference.cache

@@ -5,3 +5,4 @@ D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Buider_Pattern\ob
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Buider_Pattern\obj\Debug\netcoreapp3.1\Buider_Pattern.AssemblyInfo.cs
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Buider_Pattern\obj\Debug\netcoreapp3.1\Buider_Pattern.dll
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Buider_Pattern\obj\Debug\netcoreapp3.1\Buider_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Builder\Buider_Pattern\obj\Debug\netcoreapp3.1\Buider_Pattern.csprojAssemblyReference.cache

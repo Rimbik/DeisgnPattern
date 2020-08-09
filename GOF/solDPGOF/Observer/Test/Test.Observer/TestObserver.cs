@@ -4,7 +4,7 @@ using Observer_Pattern;
 namespace Test.Observer
 {
     [TestClass]
-    public class UnitTest1
+    public class TestObserver
     {
         [TestMethod]
         public void TestMethod1()

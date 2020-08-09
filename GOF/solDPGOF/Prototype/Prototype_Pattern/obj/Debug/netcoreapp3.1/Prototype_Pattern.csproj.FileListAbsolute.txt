@@ -12,3 +12,4 @@ D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Prototype\Prototype_Patte
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Prototype\Prototype_Pattern\obj\Debug\netcoreapp3.1\Prototype_Pattern.AssemblyInfo.cs
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Prototype\Prototype_Pattern\obj\Debug\netcoreapp3.1\Prototype_Pattern.dll
 D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Prototype\Prototype_Pattern\obj\Debug\netcoreapp3.1\Prototype_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Prototype\Prototype_Pattern\obj\Debug\netcoreapp3.1\Prototype_Pattern.csprojAssemblyReference.cache

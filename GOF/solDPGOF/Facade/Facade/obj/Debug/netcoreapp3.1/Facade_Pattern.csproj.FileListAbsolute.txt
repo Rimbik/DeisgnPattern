@@ -1,0 +1,7 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\bin\Debug\netcoreapp3.1\Facade_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\bin\Debug\netcoreapp3.1\Facade_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\bin\Debug\netcoreapp3.1\Facade_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\obj\Debug\netcoreapp3.1\Facade_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\obj\Debug\netcoreapp3.1\Facade_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\obj\Debug\netcoreapp3.1\Facade_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Facade\Facade\obj\Debug\netcoreapp3.1\Facade_Pattern.pdb
