@@ -70,23 +70,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Iterator", "Iterator\T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iterator_Pattern", "Iterator\Iterator_Pattern\Iterator_Pattern.csproj", "{7CD52355-381A-40D3-8752-2204E475BEF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State_Pattern", "State\State_Pattern\State_Pattern.csproj", "{A42F8F0B-5886-4DEF-A606-EDCCEC418A1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State_Pattern", "State\State_Pattern\State_Pattern.csproj", "{A42F8F0B-5886-4DEF-A606-EDCCEC418A1F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "State", "State", "{3F81703F-A96C-4AFB-BA81-51ACB902E7E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.State", "State\Test\Test.State\Test.State.csproj", "{E1B45E24-D704-4E36-A3BE-3F00F4C1C9C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.State", "State\Test\Test.State\Test.State.csproj", "{E1B45E24-D704-4E36-A3BE-3F00F4C1C9C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge_Pattern", "Bridge\Bridge_Pattern\Bridge_Pattern.csproj", "{7AE95A60-110B-4B5B-8575-5592AD270477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge_Pattern", "Bridge\Bridge_Pattern\Bridge_Pattern.csproj", "{7AE95A60-110B-4B5B-8575-5592AD270477}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{8AEF5644-882C-418D-BAF3-F0D1CD0D0B01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Bridge", "Bridge\Test\Test.Bridge\Test.Bridge.csproj", "{6EF2F1D1-3AD6-478E-9951-0C15A9CF873F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Bridge", "Bridge\Test\Test.Bridge\Test.Bridge.csproj", "{6EF2F1D1-3AD6-478E-9951-0C15A9CF873F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator_Pattern", "Decorator\Decorator_Pattern\Decorator_Pattern.csproj", "{540B9394-68CC-46AD-B5F9-6F54B00F408A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator_Pattern", "Decorator\Decorator_Pattern\Decorator_Pattern.csproj", "{540B9394-68CC-46AD-B5F9-6F54B00F408A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Decorator", "Decorator", "{91BEF8AB-A2B6-445D-82F6-F905CAA957A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Decorator", "Decorator\Test\Test.Decorator\Test.Decorator.csproj", "{FB49826F-6130-4D55-A66A-2E9299D1C020}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.Decorator", "Decorator\Test\Test.Decorator\Test.Decorator.csproj", "{FB49826F-6130-4D55-A66A-2E9299D1C020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command_Pattern", "Command\Command_Pattern\Command_Pattern.csproj", "{233F85EA-691C-4F55-9905-91A167D6690C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{59C779E7-7A34-4C44-BFE8-A8EE8C1CB391}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template_Pattern", "Template\Template_Pattern\Template_Pattern.csproj", "{24B5A683-FA1F-4158-A31B-BAB6738C81F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Template", "Template", "{F368D061-CE4D-4D98-AC47-D1C0913C1FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Template", "Template\Test\Test.Template\Test.Template.csproj", "{36E0A635-B7A7-4DF3-B863-175586C31A38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -190,6 +200,18 @@ Global
 		{FB49826F-6130-4D55-A66A-2E9299D1C020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB49826F-6130-4D55-A66A-2E9299D1C020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB49826F-6130-4D55-A66A-2E9299D1C020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{233F85EA-691C-4F55-9905-91A167D6690C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{233F85EA-691C-4F55-9905-91A167D6690C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{233F85EA-691C-4F55-9905-91A167D6690C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{233F85EA-691C-4F55-9905-91A167D6690C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B5A683-FA1F-4158-A31B-BAB6738C81F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B5A683-FA1F-4158-A31B-BAB6738C81F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B5A683-FA1F-4158-A31B-BAB6738C81F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B5A683-FA1F-4158-A31B-BAB6738C81F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E0A635-B7A7-4DF3-B863-175586C31A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E0A635-B7A7-4DF3-B863-175586C31A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E0A635-B7A7-4DF3-B863-175586C31A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E0A635-B7A7-4DF3-B863-175586C31A38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -235,6 +257,11 @@ Global
 		{540B9394-68CC-46AD-B5F9-6F54B00F408A} = {91BEF8AB-A2B6-445D-82F6-F905CAA957A5}
 		{91BEF8AB-A2B6-445D-82F6-F905CAA957A5} = {07CDF0E0-1D1B-48E4-967B-ACF156C9CC02}
 		{FB49826F-6130-4D55-A66A-2E9299D1C020} = {91BEF8AB-A2B6-445D-82F6-F905CAA957A5}
+		{233F85EA-691C-4F55-9905-91A167D6690C} = {59C779E7-7A34-4C44-BFE8-A8EE8C1CB391}
+		{59C779E7-7A34-4C44-BFE8-A8EE8C1CB391} = {07CDF0E0-1D1B-48E4-967B-ACF156C9CC02}
+		{24B5A683-FA1F-4158-A31B-BAB6738C81F2} = {F368D061-CE4D-4D98-AC47-D1C0913C1FA6}
+		{F368D061-CE4D-4D98-AC47-D1C0913C1FA6} = {07CDF0E0-1D1B-48E4-967B-ACF156C9CC02}
+		{36E0A635-B7A7-4DF3-B863-175586C31A38} = {F368D061-CE4D-4D98-AC47-D1C0913C1FA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ACAD39D-C8D7-42D2-AF20-EEFDB229E57F}

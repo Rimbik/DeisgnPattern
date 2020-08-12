@@ -1,0 +1,8 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\bin\Debug\netcoreapp3.1\Command_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Command\Command_Pattern\obj\Debug\netcoreapp3.1\Command_Pattern.csprojAssemblyReference.cache
