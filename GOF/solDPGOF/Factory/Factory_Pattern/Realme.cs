@@ -8,6 +8,7 @@ namespace Factory_Pattern
     {
         public override string GetPhone()
         {
+            //code .process to manufac phone
             return "Product created In China ...";
         }
     }

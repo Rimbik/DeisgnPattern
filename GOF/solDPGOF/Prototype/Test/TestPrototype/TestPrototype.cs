@@ -9,7 +9,9 @@ namespace TestPrototype
         [TestMethod]
         public void TestMethod1()
         {
+        
             ColorManager colormanager = new ColorManager();
+                       
 
             // Initialize with standard colors
             colormanager["red"] = new Color(255, 0, 0);

@@ -1,0 +1,7 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\bin\Debug\netcoreapp3.1\Bridge_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\bin\Debug\netcoreapp3.1\Bridge_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\bin\Debug\netcoreapp3.1\Bridge_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\obj\Debug\netcoreapp3.1\Bridge_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\obj\Debug\netcoreapp3.1\Bridge_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\obj\Debug\netcoreapp3.1\Bridge_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Bridge\Bridge_Pattern\obj\Debug\netcoreapp3.1\Bridge_Pattern.pdb

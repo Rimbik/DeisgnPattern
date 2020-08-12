@@ -1,0 +1,7 @@
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\bin\Debug\netcoreapp3.1\Iterator_Pattern.deps.json
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\bin\Debug\netcoreapp3.1\Iterator_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\bin\Debug\netcoreapp3.1\Iterator_Pattern.pdb
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\obj\Debug\netcoreapp3.1\Iterator_Pattern.AssemblyInfoInputs.cache
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\obj\Debug\netcoreapp3.1\Iterator_Pattern.AssemblyInfo.cs
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\obj\Debug\netcoreapp3.1\Iterator_Pattern.dll
+D:\DotnetPrac\DeisgnPattern\DeisgnPattern\GOF\solDPGOF\Iterator\Iterator_Pattern\obj\Debug\netcoreapp3.1\Iterator_Pattern.pdb
